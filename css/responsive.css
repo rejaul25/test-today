@@ -1,0 +1,15 @@
+@media only screen and (min-width: 200px) and (max-width: 768px){
+ .bar-line span i{color: #fff; padding: 8px 0px;}
+.head-teachers-img{margin-left: 26%;}
+ .head-teachers-img img{width: 300px;}
+}
+
+@media only screen and (min-width: 200px) and (max-width: 767px){
+   
+  
+  .school-name-logo img{width: 300px !important;}
+   .mission-box img{width: 120px !important;}
+   .massages-box h2::before{top: 25%;}
+   .img-box img{width: 120px !important;}
+   
+}
